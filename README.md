@@ -1,7 +1,7 @@
-# US Candy Distribution - SQL-Based Project
+# US Candy Distributor - SQL-Based Project
 
 ## Project Overview
-The **US Candy Distribution SQL Project** is a data analysis project centered around SQL queries. Using sales and geospatial data from a candy distributor, the goal of this project is to explore and analyze the data through a series of SQL queries, providing actionable insights into shipping efficiency, product margins, and sales performance.
+The **US Candy Distributor SQL Project** is a data analysis project centered around SQL queries. Using sales and geospatial data from a candy distributor, the goal of this project is to explore and analyze the data through a series of SQL queries, providing actionable insights into shipping efficiency, product margins, and sales performance.
 
 ## Project Theme
 This project focuses on **optimizing shipping routes**, analyzing **product margins**, and identifying areas for improvement in the candy distributor’s operations using SQL. It is designed for data engineers to practice and showcase their SQL skills in solving real-world business problems.
@@ -21,7 +21,7 @@ This project focuses on **optimizing shipping routes**, analyzing **product marg
 Follow these steps to set up the project environment:
 
 ##### GitHub Repository:
-Navigate to your GitHub repository:.
+Navigate to your GitHub repository:us_candy_distribution_analysis_project
 Clone the repository locally using the green Code button and choose your preferred method (HTTPS, SSH, or GitHub CLI).
 
 ##### Set Up Database:
@@ -49,7 +49,7 @@ This project uses multiple related tables, each containing valuable information 
    Holds target sales data for each division, enabling performance tracking and comparison.
    
 5. **US_zips**  
-   Geospatial data about US zip codes, which includes city, state, population, and geographic coordinates to support route analysis.
+   Geospatial data about US zip codes includes city, state, population, and geographic coordinates to support route analysis.
 
 ## Analysis and Insights
 The key areas for analysis in this project are:
@@ -74,15 +74,6 @@ The key areas for analysis in this project are:
 ## License
 This dataset is provided under the **Public Domain** license, allowing you to use and share the data freely for educational and analytical purposes.
 
-## How to Contribute
-We welcome contributions from other data engineers and analysts. If you have suggestions, improvements, or enhancements, feel free to fork the repository and submit pull requests.
-
-## Feedback and Social Sharing
-Want feedback on your solutions? Share your analysis, visualizations, and pivot tables on **LinkedIn** and mention **@Maven Analytics**. We would love to see your work and provide feedback.
-
 ## Conclusion
 This project offers a comprehensive look at data engineering in a logistics and product sales context. By working with real-world data, you will gain valuable insights into optimizing factory locations, shipping routes, and product margins, all while refining your skills as a data engineer.
-
----
-> "Optimization and insight are the keys to transforming business operations. Let data guide the way."
 
