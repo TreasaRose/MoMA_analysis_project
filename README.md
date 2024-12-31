@@ -35,7 +35,7 @@ Clean and preprocess the datasets using Python scripts available in the scripts 
 
 ### Schema Diagram
 Schema Diagram Image Here 
-![Referance image](/Screenshot2024-10-25%20223150.png)
+![Referance image](/Entity_Relationship_US_Candy.png)
 ## Schema Overview
 This project uses multiple related tables, each containing valuable information for the analysis.
 
