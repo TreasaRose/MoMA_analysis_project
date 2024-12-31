@@ -82,6 +82,7 @@ This project offers a comprehensive look at data engineering in a logistics and 
 
 ### Scenarios we analyzed
 The following are a few of the questions/scenarios that are answered in this project (check out the full SQL queries in the detailed article [here](https://github.com/TreasaRose/us_candy_distribution_analysis_project/blob/7d2ac21c2f7db874bde2d56816aa3e268a7a30bc/Candy_Distributor_Analysis_queries.html):
+[her](Candy_Distributor_Analysis_queries.html)
 
 1. Retrieve All Products from a Specific Factory
 2. Calculate Product Margins
