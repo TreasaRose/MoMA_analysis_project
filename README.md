@@ -33,6 +33,9 @@ Download the datasets from [Maven Analytics Data Playground](./https://mavenanal
 Populate the database using the provided SQL scripts.
 Clean and preprocess the datasets using Python scripts available in the scripts folder.
 
+### Schema Diagram
+Schema Diagram Image Here 
+![Referance image](/Screenshot2024-10-25%20223150.png)
 ## Schema Overview
 This project uses multiple related tables, each containing valuable information for the analysis.
 
@@ -76,4 +79,34 @@ This dataset is provided under the **Public Domain** license, allowing you to us
 
 ## Conclusion
 This project offers a comprehensive look at data engineering in a logistics and product sales context. By working with real-world data, you will gain valuable insights into optimizing factory locations, shipping routes, and product margins, all while refining your skills as a data engineer.
+
+
+### Questions Answered
+The following are a few of the questions that are answered in this project (check out the full SQL queries in the detailed article here):
+
+1. Retrieve All Products from a Specific Factory
+2. Calculate Product Margins
+3. Get Total Sales and Units Sold by Division
+4. Find Top 5 Cities by Total Sales
+5. Get Factory-Wise Product Count
+6. Find Products with Maximum Price Difference Between Units 
+7. Identify Orders with Late Shipments
+8. Search for Factory Names Containing Special Characters
+9. Calculate Running Totals of Sales and Gross Profit by Region
+10. Find Top Products by Units Sold Using Percentile<
+11. Calculate Average Sales per Day for Each Division
+12. Find the Most Recent Orders for Each Division
+13. Calculate Year-over-Year Sales Growth by Division
+14. Find the most populated cities for each state
+15. Product Margin Calculation
+16. Factory Optimization Recommendation
+17. Identify the Most Efficient Shipping Routes (Based on Distance)
+18. Compare Sales vs Target by Division
+19. Get Sales Target Achievement by Division
+20. Determine Which Regions Exceeded Their Targets
+21. Generate a List of Consecutive Orders for Each Customer
+22. Calculate Monthly Sales Trends for the Top Regions
+23. Get the Closest ZIP Code for Each Factory
+24. Identify Orders That Miss Sales Targets by Division and Region
+25. Find the Most Profitable Product by Factory and Division
 
