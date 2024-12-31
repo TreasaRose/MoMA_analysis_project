@@ -29,13 +29,13 @@ Install and configure SQL Server on your system.
 Create a new database for the project using the SQL scripts provided in the schema folder.
 
 ##### Import Data:
-Download the datasets from [Maven Analytics Data Playground](./https://mavenanalytics.io/data-playground)
+Download the datasets from [Maven Analytics Data Playground](https://mavenanalytics.io/data-playground)
 Populate the database using the provided SQL scripts.
 Clean and preprocess the datasets using Python scripts available in the scripts folder.
 
 ### Schema Diagram
 Schema Diagram Image Here 
-![Referance image](/Entity_Relationship_US_Candy.png)
+![Referance image](./Entity_Relationship_US_Candy.png)
 ## Schema Overview
 This project uses multiple related tables, each containing valuable information for the analysis.
 
